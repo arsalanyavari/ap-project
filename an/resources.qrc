@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>icons8_tick_box_100px.png</file>
+        <file>icons8_add_48px.png</file>
+        <file>icons8_add_list_40px.png</file>
+        <file>icons8_add_list_48px.png</file>
+        <file>icons8_add_new_100px.png</file>
+        <file>icons8_box_important_64px.png</file>
+        <file>icons8_change_48px.png</file>
+        <file>icons8_close_window_100px.png</file>
+        <file>icons8_customer_support_40px.png</file>
+        <file>icons8_customer_support_64px.png</file>
+        <file>icons8_edit_64px.png</file>
+        <file>icons8_employee_48px.png</file>
+        <file>icons8_employee_50px.png</file>
+        <file>icons8_file_48px_1.png</file>
+        <file>icons8_file_100px.png</file>
+        <file>icons8_front_desk_32px.png</file>
+        <file>icons8_group_message_64px.png</file>
+        <file>icons8_left_64px.png</file>
+        <file>icons8_list_64px_1.png</file>
+        <file>icons8_list_100px.png</file>
+        <file>icons8_messaging_40px.png</file>
+        <file>icons8_no_entry_64px.png</file>
+        <file>icons8_password_48px.png</file>
+        <file>icons8_picture_80px.png</file>
+        <file>icons8_profile_100px.png</file>
+        <file>icons8_save_64px.png</file>
+        <file>icons8_Search_Client_40px_1.png</file>
+        <file>icons8_secured_letter_64px.png</file>
+        <file>icons8_shutdown_64px.png</file>
+        <file>icons8_warning_48px.png</file>
+        <file>icons8_delete_male_user_50px_1.png</file>
+        <file>icons8_user_50px.png</file>
+        <file>icons8_search_property_50px.png</file>
+        <file>icons8_go_back_100px.png</file>
+        <file>icons8_response_40px.png</file>
+        <file>icons8_double_tick_50px.png</file>
+    </qresource>
+</RCC>
