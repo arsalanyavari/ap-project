@@ -1,0 +1,16 @@
+{
+    "modir": {
+        "boss": {
+            "imageUrl": "",
+            "password": "1111",
+            "username": "mr.mahdavi"
+        },
+        "human": {
+            "firstName": "احسان",
+            "id": "0000000000",
+            "lNumber": "00000000",
+            "lastName": "مهدوی",
+            "pNumber": "09356277226"
+        }
+    }
+}

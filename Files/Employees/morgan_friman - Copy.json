@@ -1,0 +1,25 @@
+{
+    "morgan_friman - Copy": {
+        "employee": {
+            "fixed": "2000",
+            "imageUrl": "D:/online class/Uni/AP/Project/QT/build-OperatorPanel-Desktop_Qt_5_12_9_MSVC2015_64bit-Debug/Files/Image/207855_241.jpg",
+            "numberofClient": "12",
+            "numberofVacations": "5",
+            "password": "abc123",
+            "percent_d": 0.4,
+            "percent_s": "0.4",
+            "salary": "4000",
+            "unit": "کارمند فروش",
+            "username": "morgan_friman",
+            "variable": "5000"
+        },
+        "human": {
+            "address": "ایران - کرج - بلوار شهید بهشتی - خیابان ایران زمین - پلاک62",
+            "firstName": "مورگان",
+            "id": "0370000037",
+            "lNumber": "09124444333",
+            "lastName": "فریمن",
+            "pNumber": "09123334444"
+        }
+    }
+}

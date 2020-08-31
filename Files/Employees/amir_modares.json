@@ -1,0 +1,25 @@
+{
+    "amir_modares": {
+        "employee": {
+            "fixed": "2000",
+            "imageUrl": "",
+            "numberofClient": "12",
+            "numberofVacations": "5",
+            "password": "1111",
+            "percent_d": 0.4,
+            "percent_s": "0.4",
+            "salary": "3200",
+            "unit": "کارمند پشتیبانی",
+            "username": "amir_modares",
+            "variable": "3000"
+        },
+        "human": {
+            "address": "اصفهان،خیابان کاوه، کوی فارابی",
+            "firstName": "امیرمهدی",
+            "id": "1273510641",
+            "lNumber": "34504478",
+            "lastName": "مدرس",
+            "pNumber": "09139255561"
+        }
+    }
+}

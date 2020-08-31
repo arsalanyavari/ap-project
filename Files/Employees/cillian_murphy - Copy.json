@@ -1,0 +1,25 @@
+{
+    "cillian_murphy - Copy": {
+        "employee": {
+            "fixed": "2000",
+            "imageUrl": "D:/online class/Uni/AP/Project/QT/build-OperatorPanel-Desktop_Qt_5_12_9_MSVC2015_64bit-Debug/Files/Image/Tom.jpg",
+            "numberofClient": "12",
+            "numberofVacations": "5",
+            "password": "abc123",
+            "percent_d": 0.4,
+            "percent_s": "0.4",
+            "salary": "3200",
+            "unit": "کارمند پشتیبانی",
+            "username": "cillian_murphy",
+            "variable": "3000"
+        },
+        "human": {
+            "address": "ایران - کرج - بلوار شهید بهشتی - خیابان ایران زمین - پلاک42",
+            "firstName": "کلین",
+            "id": "0396500210",
+            "lNumber": "02632230095",
+            "lastName": "مورفی",
+            "pNumber": "09125216870"
+        }
+    }
+}

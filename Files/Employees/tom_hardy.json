@@ -1,0 +1,25 @@
+{
+    "tom_hardy": {
+        "employee": {
+            "fixed": "2000",
+            "imageUrl": "C:/Users/Mohammad mahdi/Desktop/build-login-Desktop_Qt_5_12_9_MSVC2015_64bit-Debug/Files/Image/hardy.jpg",
+            "numberofClient": "12",
+            "numberofVacations": "5",
+            "password": "abc123",
+            "percent_d": 0.4,
+            "percent_s": "0.4",
+            "salary": "3600",
+            "unit": "کارمند اپراتور",
+            "username": "tom_hardy",
+            "variable": "4000"
+        },
+        "human": {
+            "address": "ایران - کرج - بلوار شهید بهشتی - خیابان ایران زمین - پلاک52",
+            "firstName": "تام",
+            "id": "0374200425",
+            "lNumber": "02634722410",
+            "lastName": "هاردی",
+            "pNumber": "09126533389"
+        }
+    }
+}

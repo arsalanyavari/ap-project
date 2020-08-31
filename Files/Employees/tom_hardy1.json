@@ -1,0 +1,25 @@
+{
+    "tom_hardy1": {
+        "employee": {
+            "fixed": "",
+            "imageUrl": "",
+            "numberofClient": "",
+            "numberofVacations": "",
+            "password": "00",
+            "percent_d": 0,
+            "percent_s": "",
+            "salary": "",
+            "unit": "کارمند اپراتور",
+            "username": "tom_hardy1",
+            "variable": ""
+        },
+        "human": {
+            "address": "",
+            "firstName": "tom",
+            "id": "00",
+            "lNumber": "",
+            "lastName": "hardi",
+            "pNumber": ""
+        }
+    }
+}

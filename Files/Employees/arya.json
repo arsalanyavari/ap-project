@@ -1,0 +1,25 @@
+{
+    "arya": {
+        "employee": {
+            "fixed": "2000",
+            "imageUrl": "",
+            "numberofClient": "12",
+            "numberofVacations": "5",
+            "password": "1111",
+            "percent_d": 0.4,
+            "percent_s": "0.4",
+            "salary": "4000",
+            "unit": "کارمند فروش",
+            "username": "arya",
+            "variable": "5000"
+        },
+        "human": {
+            "address": "همین حوالی",
+            "firstName": "ارسلان",
+            "id": "123456789",
+            "lNumber": "33333333",
+            "lastName": "یاوری",
+            "pNumber": "09140127683"
+        }
+    }
+}

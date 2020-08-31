@@ -1,0 +1,25 @@
+{
+    "chris": {
+        "employee": {
+            "fixed": "5000",
+            "imageUrl": "C:/Users/Mohammad mahdi/Desktop/build-login-Desktop_Qt_5_12_9_MSVC2015_64bit-Debug/Files/Image/chris hemsworth's.jpg",
+            "numberofClient": "",
+            "numberofVacations": "",
+            "password": "037554632",
+            "percent_d": 0.5,
+            "percent_s": "0.5",
+            "salary": "5000",
+            "unit": "کارمند اپراتور",
+            "username": "chris",
+            "variable": ""
+        },
+        "human": {
+            "address": "کرج - گوهردشت - خیابان 13 غربی",
+            "firstName": "chris",
+            "id": "037554632",
+            "lNumber": "09121312525",
+            "lastName": "hemsworth's",
+            "pNumber": "02634788990"
+        }
+    }
+}

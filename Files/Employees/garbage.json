@@ -1,0 +1,25 @@
+{
+    "garbage": {
+        "employee": {
+            "fixed": "123",
+            "imageUrl": "",
+            "numberofClient": "",
+            "numberofVacations": "",
+            "password": "123",
+            "percent_d": 0.123,
+            "percent_s": "0.123",
+            "salary": "123",
+            "unit": "کارمند اپراتور",
+            "username": "garbage",
+            "variable": ""
+        },
+        "human": {
+            "address": "123",
+            "firstName": "garbage1",
+            "id": "123",
+            "lNumber": "123",
+            "lastName": "garbage2",
+            "pNumber": "123"
+        }
+    }
+}

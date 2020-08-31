@@ -1,0 +1,25 @@
+{
+    "mmehdi": {
+        "employee": {
+            "fixed": "5000",
+            "imageUrl": "",
+            "numberofClient": "",
+            "numberofVacations": "",
+            "password": "1111",
+            "percent_d": 0.5,
+            "percent_s": "0.5",
+            "salary": "5000",
+            "unit": "کارمند اپراتور",
+            "username": "mmehdi",
+            "variable": ""
+        },
+        "human": {
+            "address": "کرج - گوهردشت - خیابان 13 غربی",
+            "firstName": "محمدمهدی",
+            "id": "037554632",
+            "lNumber": "09121312525",
+            "lastName": "احمدی",
+            "pNumber": "02634788990"
+        }
+    }
+}
