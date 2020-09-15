@@ -1,5 +1,5 @@
 # ap-project
-CRM system have been written by qt framework &amp; cpp language 
+CRM system has been written by qt framework &amp; cpp language 
 
 
 
@@ -16,7 +16,7 @@ otherwise please doing these steps:
   
   
   
-  if you want to have your personal boss, employee and client specifications put your data instead of the but right in json format the we've been written
+  if you want to have your personal boss, employee and client specifications put your data instead of them (our files) but right in json format that we've been written
   
   
   have a nice time :-*
