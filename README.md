@@ -20,5 +20,5 @@ if you want try to running program please install app by using &lt;&gt; otherwis
 
 if you want to have your personal boss, employee and client specifications put your data instead of them \(our files\) but right in json format that we've been written
 
-have a nice time :-\*
+have a nice time :\*
 
